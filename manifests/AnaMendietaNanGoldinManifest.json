@@ -1,0 +1,464 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Maria9606.github.io/Collection-AnaMendietaandNanGoldin/manifests/AnaMendietaNanGoldinManifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Ana Mendieta & Nan Goldin: The Self-Portrait and Women’s Body Representation",
+  "metadata" : [ {
+    "label" : "Date",
+    "value" : "June, 2023"
+  }, {
+    "label" : "Manifest Creator",
+    "value" : "María Alejandra González Vallejo"
+  } ],
+  "description" : [ {
+    "@value" : "The Collection composed by three photography “Untitled” (Self-Portrait with Blood, 1973), “Untitled” (Silueta Series, Mexico, 1976) by Ana Mendieta; and “Nan One Month After Being Battered” (1984) by Nan Goldin, and obeys to the intention of talk about the women body representation through contemporary photography, specifically about self-portrait, as an element to questioning the traditional feminine identity and building a self-image related with autobiographical experiences and landscape; concerns to Feminism aims.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://2568cce0-b4f9-4e38-9b70-1037e772a1be",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://b02ad4bb-2e67-4ad3-968d-8489444c657b",
+      "@type" : "sc:Canvas",
+      "label" : "Untitled (Silueta Series, Mexico)",
+      "height" : 640,
+      "width" : 516,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://567cca2c-c664-4634-b634-11a7e943aaaa",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/2/ANAMENDIETA121.jpeg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://localhost:8182/iiif/2/ANAMENDIETA121.jpeg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 330240,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 640,
+          "width" : 516
+        },
+        "on" : "http://b02ad4bb-2e67-4ad3-968d-8489444c657b"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "title",
+        "value" : "Untitled (Self-Portrait with Blood)"
+      }, {
+        "label" : "creator",
+        "value" : "Ana Mendieta"
+      }, {
+        "label" : "subject",
+        "value" : "Body Art"
+      }, {
+        "label" : "subject",
+        "value" : "Performance Art"
+      }, {
+        "label" : "subject",
+        "value" : "Contemporary"
+      }, {
+        "label" : "subject",
+        "value" : "Blood"
+      }, {
+        "label" : "subject",
+        "value" : "Women’s rights"
+      }, {
+        "label" : "subject",
+        "value" : "Artistic Photography"
+      }, {
+        "label" : "subject",
+        "value" : "Self-Portraits"
+      }, {
+        "label" : "subject",
+        "value" : "Feminism"
+      }, {
+        "label" : "description",
+        "value" : "This is a color photograph showing a close-up view of a young woman’s face dripping with blood. It is one of a group of images that document an action in which the artist posed for the camera with blood trickling down her face and neck into the neckline of her white cotton top. In this photograph, her head is tilted backward so that the camera investigates her bloodied nostrils. Her half-open eyes stare directly at the viewer. Blood covers her forehead and has dribbled down her nose, into her parted lips, and down the sides of her face, clotting in her long black hair. Mendieta recorded her performances and actions using 35mm slides. Tate’s image is a unique print from a 35mm slide printed by the artist during her lifetime; a suite of six further images from this action was posthumously printed in 1997 in an edition of ten (reproduced Fisher, pp.54–6). Untitled (Self-Portrait with Blood) relates to several experimental series of photographs of the artist’s face produced the previous year. A suite of nine 35mm color slides entitled Untitled (Facial Cosmetic Variations) (eight reproduced Viso 2004, p.145) show Mendieta’s face deformed by make-up, wigs, and torn pantyhose stretched over her head. Another group of these with the same title in a suite of four shows her face partially concealed by her soaped-up hair (reproduced Fisher, pp.25–7). In a further series, Untitled (Glass on Body Imprints) (reproduced Fisher, pp.6–7), she presses her face against a pane of glass, transforming her youthful beauty into the appearance of a decayed corpse. A silent Super-8 film created in the same year as Untitled (Self-Portrait with Blood) provides a moving version of a similar theme: Sweating Blood 1973 (reproduced Viso 2004, p.150) shows Mendieta holding a pose of impassive calm as blood appears to ooze form her neatly parted hairline and trickles down her inexpressive face. In such performances as her presentation of the scene of a rape – Untitled (Rape Scene) 1973 (L02834) – Mendieta’s use of blood carries a strong political message in the form of a call to awareness of violence against women. Other instances of her use of blood are, like the Untitled (Self-Portrait with Blood), more ambiguous. In this image, the artist’s bleeding face recalls the iconography of Christianity, in which martyrdom has been celebrated since the crucifixion of Christ. In a photograph taken by Breder in the same year, Mutilated Body on Landscape (reproduced Fisher, p.86), Mendieta appears as a sacrificial victim, lying under a white shroud liberally covered with blood and with a large animal heart on her chest. For Mendieta, death invokes life, just as, in Christian mythology, Christ was reborn after dying. In Mendieta’s iconography, blood is a symbol of rebirth and renewal, as in the image Untitled (Silueta Series, Mexico) 1974 (L02836), where the animal blood filling the form of her silhouette on the earth celebrates her connection to the earth and, by extension, the wider universe."
+      }, {
+        "label" : "publisher",
+        "value" : "Tate"
+      }, {
+        "label" : "dateCreated",
+        "value" : "1973"
+      }, {
+        "label" : "dateCopyrighted",
+        "value" : "2010"
+      }, {
+        "label" : "type",
+        "value" : "Physical Object"
+      }, {
+        "label" : "type",
+        "value" : "On Paper"
+      }, {
+        "label" : "format",
+        "value" : "Photograph"
+      }, {
+        "label" : "format",
+        "value" : "35 mm Print"
+      }, {
+        "label" : "format",
+        "value" : "Colour on paper"
+      }, {
+        "label" : "extent",
+        "value" : "398 x 310 x 32 mm"
+      }, {
+        "label" : "identifier",
+        "value" : "T13354"
+      }, {
+        "label" : "source",
+        "value" : "https://www.tate.org.uk/art/artworks/mendieta-untitled-self-portrait-with-blood-t13354"
+      }, {
+        "label" : "source",
+        "value" : "AAT"
+      }, {
+        "label" : "source",
+        "value" : "TGN"
+      }, {
+        "label" : "source",
+        "value" : "ULAN"
+      }, {
+        "label" : "source",
+        "value" : "Dublin Core"
+      }, {
+        "label" : "language",
+        "value" : "En"
+      }, {
+        "label" : "isFormatOf",
+        "value" : "A suite of six further images from this action was posthumously printed in 1997 in an edition of ten."
+      }, {
+        "label" : "relation",
+        "value" : "A suite of nine 35mm colour slides entitled Untitled (Facial Cosmetic Variations) Series"
+      }, {
+        "label" : "relation",
+        "value" : "Untitled (Glass on Body Imprints) "
+      }, {
+        "label" : "relation ",
+        "value" : "A silent Super-8 film Sweating Blood 1973: Shows Mendieta holding a pose of impassive calm as blood appears to ooze from her neatly parted hairline and trickles down her inexpressive face"
+      }, {
+        "label" : "relation",
+        "value" : "https://www.christies.com/en/lot/lot-5495773"
+      }, {
+        "label" : "isReferencedBy",
+        "value" : "Untitled (Rape Scene) 1973 (L02834) (performance whit her presentation of the scene of a rape)– Mendieta’s use of blood carries a strongly political message in the form of a call to awareness of violence against women."
+      }, {
+        "label" : "coverage ",
+        "value" : "University of Iowa"
+      }, {
+        "label" : "coverage",
+        "value" : "United States"
+      }, {
+        "label" : "rights",
+        "value" : "© The Estate of Ana Mendieta Collection, LLC; Courtesy Galerie Lelong & Co."
+      }, {
+        "label" : "provenance",
+        "value" : "Presented by the American Patrons of Tate, courtesy of the Latin American Acquisitions Committee 2010."
+      } ]
+    }, {
+      "@id" : "http://661c6351-b041-4c0c-bbfe-5bfaf28333de",
+      "@type" : "sc:Canvas",
+      "label" : "Untitled (Silueta Series, Mexico)",
+      "height" : 650,
+      "width" : 447,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0db0b203-c2eb-4ee8-8916-7f145b6e4e0c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/2/ANAMENDIETA122.jpg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://localhost:8182/iiif/2/ANAMENDIETA122.jpg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 290550,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 650,
+          "width" : 447
+        },
+        "on" : "http://661c6351-b041-4c0c-bbfe-5bfaf28333de"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "title",
+        "value" : "Untitled (Silueta Series, Mexico)"
+      }, {
+        "label" : "creator",
+        "value" : "Ana Mendieta"
+      }, {
+        "label" : "subject",
+        "value" : "Body Art"
+      }, {
+        "label" : "subject",
+        "value" : "Performance Art\n"
+      }, {
+        "label" : "subject",
+        "value" : "Land Art\n"
+      }, {
+        "label" : "subject",
+        "value" : "Contemporary"
+      }, {
+        "label" : "subject",
+        "value" : "Church"
+      }, {
+        "label" : "subject",
+        "value" : "Women’s rights\n"
+      }, {
+        "label" : "subject",
+        "value" : "Value"
+      }, {
+        "label" : "subject",
+        "value" : "Silhouettes\n"
+      }, {
+        "label" : "subject",
+        "value" : "Artistic Photography\n"
+      }, {
+        "label" : "subject",
+        "value" : "Self-Portraits"
+      }, {
+        "label" : "subject",
+        "value" : " Feminism"
+      }, {
+        "label" : "subject",
+        "value" : "Latin America"
+      }, {
+        "label" : "subject",
+        "value" : "Mendieta, Ana\n"
+      }, {
+        "label" : "dateCreated",
+        "value" : "1976\n"
+      }, {
+        "label" : "dateCopyrighted",
+        "value" : "2010"
+      }, {
+        "label" : "type",
+        "value" : "On Paper"
+      }, {
+        "label" : "type",
+        "value" : "Value"
+      }, {
+        "label" : "type ",
+        "value" : "Unique"
+      }, {
+        "label" : "format",
+        "value" : "Photograph\n"
+      }, {
+        "label" : "format",
+        "value" : "35 mm Print"
+      }, {
+        "label" : "format",
+        "value" : "Color on Paper"
+      }, {
+        "label" : "extent",
+        "value" : "255 × 203 mm"
+      }, {
+        "label" : "identifier",
+        "value" : "T13356"
+      }, {
+        "label" : "source",
+        "value" : "https://www.tate.org.uk/art/artworks/mendieta-untitled-silueta-series-mexico-t13356"
+      }, {
+        "label" : "source",
+        "value" : "AAT"
+      }, {
+        "label" : "source",
+        "value" : "TGN"
+      }, {
+        "label" : "source",
+        "value" : "ULAN"
+      }, {
+        "label" : "source",
+        "value" : "Dublin Core"
+      }, {
+        "label" : "language",
+        "value" : "En"
+      }, {
+        "label" : "isReferencedBy",
+        "value" : "“Silueta Series” (1973 – 1980)"
+      }, {
+        "label" : "isReferencedBy",
+        "value" : "Petra Barreras del Rio and John Perreault, Ana Mendieta: A Retrospective, The New Museum of Contemporary Art, New York 1988, p.10."
+      }, {
+        "label" : "isReferencedBy",
+        "value" : "Patrick Dondelinger and Laura Routlet, Ana Mendieta: Body Tracks, exhibition catalog, Kunstmuseum Luzern 2002, reproduced p.12"
+      }, {
+        "label" : "isReferencedBy",
+        "value" : "Olga M Viso, Ana Mendieta: Earth Body, Sculpture and Performance 1972–1985, exhibition catalogue, Hirshhorn Museum and Sculpture Garden, Smithsonian Institution, Washington DC 2004, pp.78–9, reproduced p.79"
+      }, {
+        "label" : "relation",
+        "value" : "https://americanart.si.edu/artist/ana-mendieta-6832"
+      }, {
+        "label" : "coverage",
+        "value" : "Mexico"
+      }, {
+        "label" : "coverage",
+        "value" : "Cuilapán de Guerrero\n"
+      }, {
+        "label" : "coverage",
+        "value" : "Oaxaca"
+      }, {
+        "label" : "rights",
+        "value" : "© The Estate of Ana Mendieta Collection, LLC; Courtesy Galerie Lelong & Co.\n"
+      }, {
+        "label" : "provenance",
+        "value" : "Presented by the American Patrons of Tate, courtesy of the Latin American Acquisitions Committee 2010"
+      } ]
+    }, {
+      "@id" : "http://d2559087-a222-48c8-ba49-b7f55bfc58bb",
+      "@type" : "sc:Canvas",
+      "label" : "Nan One Month After Being Battered",
+      "height" : 435,
+      "width" : 650,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://52d4c7f1-ead8-4aef-b09f-12a2b04f08d5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "http://localhost:8182/iiif/2/NAN%20GOLDINTATE.jpeg/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "http://localhost:8182/iiif/2/NAN%20GOLDINTATE.jpeg",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "tif", "jpg", "gif", "png" ],
+              "maxArea" : 282750,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 435,
+          "width" : 650
+        },
+        "on" : "http://d2559087-a222-48c8-ba49-b7f55bfc58bb"
+      } ],
+      "related" : "",
+      "metadata" : [ {
+        "label" : "title",
+        "value" : "Nan One Month After Being Battered"
+      }, {
+        "label" : "creator",
+        "value" : "Nan Goldin"
+      }, {
+        "label" : "subject",
+        "value" : "Contemporary"
+      }, {
+        "label" : "subject",
+        "value" : "Intimate Photography"
+      }, {
+        "label" : "subject",
+        "value" : "Women’s rights"
+      }, {
+        "label" : "subject",
+        "value" : "Artistic Photography"
+      }, {
+        "label" : "subject",
+        "value" : "Self-Portraits"
+      }, {
+        "label" : "subject",
+        "value" : "Feminism"
+      }, {
+        "label" : "subject",
+        "value" : "Empathy"
+      }, {
+        "label" : "description",
+        "value" : "In 1984 Goldin was physically assaulted by her then-lover in a Berlin hotel, requiring major surgery as a result. Her self-portrait after the event reflects Goldin’s honest approach, which never avoided showing personal trauma. Marking the end of a long-term relationship, the image acts as the emotional climax of The Ballad. Goldin says ‘I took this picture so that I would never go back to him. This is a large color photograph of the artist staring directly at the camera. Intense red blood in the white of her swollen left eye mirrors the shade of her lipstick. Dark bruises color the skin around it and below her right eye. In contrast to the physical damage she defiantly offers to the camera, she appears well-groomed. Her hair is glossy and well brushed and, in addition to the bright red lipstick, she is wearing dangly earrings and a necklace. She has photographed herself against a piece of dark wooden furniture and a white embroidered curtain that appears bluish in the artificial night-time light. The dark shadows behind her head indicate the use of a flashbulb. As a photographic print, this image exists in an edition of twenty-five. It marks the end of a long-term relationship and a particular period in the artist's life and provides the emotional climax of Goldin's slide show and books The Ballad of Sexual Dependency. "
+      }, {
+        "label" : "publisher",
+        "value" : "Tate"
+      }, {
+        "label" : "dateCreated",
+        "value" : "1984"
+      }, {
+        "label" : "dateCopyrighted",
+        "value" : "1997"
+      }, {
+        "label" : "type",
+        "value" : "Physical Object"
+      }, {
+        "label" : "type",
+        "value" : "On Paper"
+      }, {
+        "label" : "format",
+        "value" : "Photograph"
+      }, {
+        "label" : "format",
+        "value" : "Dye destruction print on paper mounted on board"
+      }, {
+        "label" : "format",
+        "value" : "Cibachrome color print on paper mounted onto boar"
+      }, {
+        "label" : "format",
+        "value" : "Signed and dated with the title inscribed on the verso"
+      }, {
+        "label" : "extent",
+        "value" : "695 × 1015 mm"
+      }, {
+        "label" : "identifier",
+        "value" : "P78045"
+      }, {
+        "label" : "source",
+        "value" : "https://www.tate.org.uk/art/artworks/goldin-nan-one-month-after-being-battered-p78045"
+      }, {
+        "label" : "source",
+        "value" : "AAT"
+      }, {
+        "label" : "source",
+        "value" : "TGN"
+      }, {
+        "label" : "source",
+        "value" : "ULAN"
+      }, {
+        "label" : "source",
+        "value" : "Dublin Core"
+      }, {
+        "label" : "language",
+        "value" : "En"
+      }, {
+        "label" : "isPartOf",
+        "value" : "Nan Goldin, The Ballad of Sexual Dependency, New York 1986, p.8, reproduced (colour) p.83"
+      }, {
+        "label" : "isPartOf",
+        "value" : "Goldin's more recent slide show series of self-portraits titled “All By Myself” 1995-6."
+      }, {
+        "label" : "isReferencedBy",
+        "value" : "The MoMA’s exhibition “Pictures by Women: A History of Modern Photography” May 2010 – Apr 2011."
+      }, {
+        "label" : "isReferencedBy",
+        "value" : "The MoMA’s exhibition “Installation view of the exhibition \"Nan Goldin: The Ballad of Sexual Dependency\" Jun 2016 - Apr 2017."
+      }, {
+        "label" : "isReferencedBy",
+        "value" : "The MoMA’s exhibition “Installation view of the exhibition \"Here is Every, Four Decades of Contemporary Art\" Sept 2008 – March, 2009."
+      }, {
+        "label" : "coverage",
+        "value" : "United States "
+      }, {
+        "label" : "rights",
+        "value" : "© Nan Goldin"
+      }, {
+        "label" : "provenance",
+        "value" : "Purchased 1997"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ]
+}
