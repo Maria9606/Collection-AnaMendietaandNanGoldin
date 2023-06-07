@@ -1,0 +1,13 @@
+{
+  "id" : "https://Maria9606.github.io/Collection-AnaMendietaandNanGoldin/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Maria9606/Collection-AnaMendietaandNanGoldin project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Maria9606.github.io/Collection-AnaMendietaandNanGoldin/manifests/AnaMendietaNanGoldinManifest.json",
+    "label" : "Ana Mendieta & Nan Goldin: The Self-Portrait and Women’s Body Representation"
+  } ]
+}
